@@ -178,7 +178,7 @@ body.error-active .error__overlay {
   text-transform: uppercase;
   width: fit-content;
   transition:all .2s ease-in-out;
-  padding: 2rem 3rem;
+  padding: 1.5rem 2rem;
   display: inline-block;
 } 
 .bold {
@@ -201,15 +201,5 @@ body.error-active .error__overlay {
   font-size: 10rem;
 }
 }
-@media screen and (min-width: 1024px) {
-  .title {
-    font-size: 12rem;
-  }
-.logo {
-  font-size: 3rem;
-}
-.text {
-  font-size: 2rem;
-}
-}
+
 
